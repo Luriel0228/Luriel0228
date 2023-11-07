@@ -7,6 +7,7 @@
 [![discord](https://img.shields.io/badge/Luriel_-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/903582042221056020)
 
 ## 💻 Languages
+![java](https://img.shields.io/badge/JAVA-f56042?&logo=oracle&style=for-the-badge&logoColor=ffffff)
 ![javascript](https://img.shields.io/badge/JAVASCRIPT-b89721?&logo=javascript&style=for-the-badge&logoColor=ffffff)
 ![python](https://img.shields.io/badge/PYTHON-4266f5?&logo=python&style=for-the-badge&logoColor=ffffff)
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=FFFFFF)
