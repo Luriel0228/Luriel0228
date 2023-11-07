@@ -1,5 +1,7 @@
 ## 💬 About Me
 🧑 **Name**: Luriel_
+📘Minecraft Developer
+📙Full-Stack Developer
 
 ## 📫 Contact
 [![discord](https://img.shields.io/badge/Luriel_-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/903582042221056020)
